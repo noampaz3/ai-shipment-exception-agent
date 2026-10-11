@@ -4,7 +4,7 @@ An automated AI agent that detects delayed shipments in a Smartsheet tracker, us
 
 Built with **Smartsheet**, **Make**, **Claude (Anthropic API)** and **Telegram**, with no custom code.
 
-🎥 **Demo video:** [Watch the 90-second demo](https://www.loom.com/share/8dcdc5cb34724db4b6956af60cdcef44)
+🎥 **Demo video:** [Watch the 1-minute demo](https://www.loom.com/share/8dcdc5cb34724db4b6956af60cdcef44)
 
 ---
 
